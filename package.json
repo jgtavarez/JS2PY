@@ -1,7 +1,7 @@
 {
   "name": "js2py",
   "version": "0.1.0",
-  "description": "Mini JavaScript to Python compiler",
+  "description": "Proyecto Final: Diseño e Implementación de un Compilador for INF-920-001 COMPILADORES (UTESA)",
   "main": "index.js",
   "scripts": {
     "start": "node src/server.js",
